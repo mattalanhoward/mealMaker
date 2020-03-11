@@ -56,14 +56,20 @@ const menu = {
   menu.addDishToCourse('appetizers', 'Bitter Ballen', 5.00);
   menu.addDishToCourse('appetizers', 'Kaas', 6.50);
   menu.addDishToCourse('appetizers', 'Croquettes', 4.00);
-  
+  menu.addDishToCourse('appetizers', 'Cucumber Salad', 6.50);
+  menu.addDishToCourse('appetizers', 'Baked Courgette', 6.25);
+
   menu.addDishToCourse('mains', 'Dutch Burger', 9.50);
   menu.addDishToCourse('mains', 'Chicken Fried Chicken', 8.00);
   menu.addDishToCourse('mains', 'Wild Caught Salmon', 12.00);
+  menu.addDishToCourse('mains', 'Andive Stampot', 5.85);
+  menu.addDishToCourse('mains', 'Snapper', 12.00);
   
   menu.addDishToCourse('desserts', 'Ice Cream', 3.00);
   menu.addDishToCourse('desserts', 'Pie', 3.50);
   menu.addDishToCourse('desserts', 'Wine', 6.00);
+  menu.addDishToCourse('desserts', 'Coffee met Digestives', 4.00);
+  menu.addDishToCourse('desserts', 'Sambuca', 6.00);
   
 // console.log(menu)
   
