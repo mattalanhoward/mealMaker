@@ -70,6 +70,8 @@ const menu = {
   menu.addDishToCourse('desserts', 'Wine', 6.00);
   menu.addDishToCourse('desserts', 'Coffee met Digestives', 4.00);
   menu.addDishToCourse('desserts', 'Sambuca', 6.00);
+  menu.addDishToCourse('desserts', 'Tea', 6.00);
+  
   
 // console.log(menu)
   
